@@ -1,6 +1,6 @@
 import { Button } from './components/ui/button'
 import Navbar from './page/Navbar/Navbar'
-import Home from './page/Home/home'
+import Home from './page/Home/Home'
 import { Route, Routes } from 'react-router-dom'
 import Portfolio from './page/Portfolio/Portfolio'
 import Activity from './page/Activity/Activity'
