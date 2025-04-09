@@ -25,7 +25,7 @@ function App() {
   const dispatch = useDispatch();
   
   console.log("auth -- ",auth);
-  console.log(API_BASE_URL);
+  console.log("djf - ",API_BASE_URL);
 
   useEffect(()=>{
     dispatch(getUser(auth.jwt || localStorage.getItem("jwt")))
