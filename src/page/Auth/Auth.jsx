@@ -19,7 +19,7 @@ const Auth = () => {
             -translate-y-1/2 flex flex-col justify-center items-center h-[35rem] w-[30rem]
             rounded-md z-50 bg-black bg-opacity-50 shadow-2xl shadow-white px-10'>
 
-                <h1 className='text-6xl font-bold pb-9'>OM Treading</h1>
+                <h1 className='text-6xl font-bold pb-9'>OM Trading</h1>
 
            { location.pathname == '/signup' ?    (
             <section className='w-full'>

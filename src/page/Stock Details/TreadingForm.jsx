@@ -56,7 +56,7 @@ const handleBuyCrypto = ()=>{
     jwt: localStorage.getItem('jwt'), 
     amount,
     orderData: {
-      coidId: coin.coinDetails.id,
+      coidId: coin.coinDetails?.id,
       quantity,
       orderType,
     },

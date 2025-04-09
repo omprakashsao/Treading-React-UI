@@ -90,7 +90,7 @@ const StockDetails = () => {
           <Dialog>
             <DialogTrigger>
               <Button size='lg'>
-                Tread
+              Trade
               </Button>
             </DialogTrigger>
             <DialogContent>

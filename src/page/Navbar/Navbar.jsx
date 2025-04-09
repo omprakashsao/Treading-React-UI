@@ -38,7 +38,7 @@ const Navbar = () => {
             </Avatar>
             <div>
                 <span className='text-orange-700 font-bold'>OM</span>
-                <span>Tread</span>
+                <span>Trade</span>
             </div>
         </div>
       </SheetTitle>
@@ -49,7 +49,7 @@ const Navbar = () => {
   </SheetContent>
 </Sheet>
 
-<p className=' cursor-pointer'>OM Treading</p>
+<p className=' cursor-pointer'>OM Trading</p>
 
         <div className='p-0 ml-9 '>
           <Button variant='outline' className='flex item-center gap-3'>
