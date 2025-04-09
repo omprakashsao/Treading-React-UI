@@ -16,6 +16,7 @@ import Auth from './page/Auth/Auth'
 import { useDispatch, useSelector } from 'react-redux'
 import { useEffect } from 'react'
 import { getUser } from './state/Auth/Action'
+import { API_BASE_URL } from './config/api'
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
   const dispatch = useDispatch();
   
   console.log("auth -- ",auth);
+  console.log(API_BASE_URL);
 
   useEffect(()=>{
     dispatch(getUser(auth.jwt || localStorage.getItem("jwt")))
