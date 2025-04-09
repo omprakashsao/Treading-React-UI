@@ -102,7 +102,7 @@ const Home = () => {
                 <div className='flex gap-5 items-center'>
                     <div>
                     <Avatar>
-                        <AvatarImage className='h-10'  src={"http://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501400"}/>
+                        <AvatarImage className='h-10'  src={"https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501400"}/>
 
                     </Avatar>
                     </div>
