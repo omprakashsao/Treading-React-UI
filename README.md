@@ -4,7 +4,7 @@ A powerful and modern crypto trading platform built with **Spring Boot** and **R
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 <p align="center">
   <img src="asset/crypto-platform.png" width="500" alt="Dashboard Screenshot"/>
 </p>
