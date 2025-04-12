@@ -74,9 +74,9 @@ A powerful and modern crypto trading platform built with **Spring Boot** and **R
 
 ## 🔗 Connect with Me
 ### Om Prakash Sao
-Final Year B.Tech CSE | Full Stack Java Developer
-📧 saoomprakash2002@gmail.com
-🌐 https://www.linkedin.com/in/om-prakash-sao-6bb039240/
+- **Final Year B.Tech CSE | Full Stack Java Developer**
+- **📧 saoomprakash2002@gmail.com**
+- **🌐 https://www.linkedin.com/in/om-prakash-sao-6bb039240/**
 
 
 
